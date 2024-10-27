@@ -1,10 +1,3 @@
-### 👋 Hi there
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chae909&show_icons=true&theme=radical)
-
-[![GitHub Streak](https://github-readme-activity-graph.vercel.app/graph?username=chae909&hide_border=true&theme=tokyo-night&area-color=A9FFBC)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
 ### 🛠️ Skills
 
 *Backend & Data Science*
@@ -16,3 +9,9 @@
 
 <a href=mailto:cowjddbs8256@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cowjddbs8256@gmail.com">
 <a href=mailto:jeongyoon2004@naver.com> <img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=jeongyoon2004@naver.com">
+
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chae909&show_icons=true&theme=radical)
+
+
