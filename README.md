@@ -1,5 +1,7 @@
 ### 👋 Hi there
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chae909&show_icons=true&theme=radical)
+
 [![GitHub Streak](https://github-readme-activity-graph.vercel.app/graph?username=chae909&hide_border=true&theme=tokyo-night&area-color=A9FFBC)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
