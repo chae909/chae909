@@ -31,7 +31,7 @@
 
 ## 📫 Contact Me
 
-- 📝 Blog: [Velog](https://velog.io/@cjungy2)  
+- 📝 Blog: [Velog](https://velog.io/@cjungy2/series)  
 - 📧 Email: cowjddbs8256@gmail.com
 
 
